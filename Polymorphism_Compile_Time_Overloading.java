@@ -4,9 +4,9 @@ public class Polymorphism_Compile_Time_Overloading {
 
         // Calling method by passing
         // input as in arguments
-        Calculate m=new Calculate();
-        System.out.println(m.Multiply(2, 4));
-        System.out.println(m.Multiply(5.5, 6.3));
+        Calculate c=new Calculate();
+        System.out.println(c.Multiply(2, 4));
+        System.out.println(c.Multiply(5.5, 6.3));
     }
 }
 class Calculate{
