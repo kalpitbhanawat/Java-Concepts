@@ -1,4 +1,4 @@
-public class Polymorphism_Compile_Time_Overloading {
+public class Compile_Time_Polymorphism {
     public static void main(String[] args)
     {
 
